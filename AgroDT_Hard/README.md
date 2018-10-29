@@ -1,4 +1,4 @@
-** Files definition
+## Files definition
 
 - README.md is general definition of the each part of the project
 - TODO.md is a todo list.
