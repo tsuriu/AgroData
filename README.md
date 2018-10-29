@@ -1,6 +1,6 @@
--> ![AgroData Logo](imgs/agrodata_logo.jpeg "AgroData") <-
+![AgroData Logo](imgs/agrodata_logo.jpeg "AgroData") 
 
-#### **AgroData**
+-> #### **AgroData** <-
 
 É um projeto com foco no monitoramento de lavouras e seus processos, com objectivo de auxiliar a tomada de decisão.
 
