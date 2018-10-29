@@ -1,4 +1,4 @@
-![AgroData Logo](imgs/agrodata_logo,jpeg "AgroData")
+![AgroData Logo](imgs/agrodata_logo.jpeg "AgroData")
 
 #### **AgroData**
 
