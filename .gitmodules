@@ -1,0 +1,3 @@
+[submodule "AgroDT_Hard/src/libs/SimpleDHT"]
+	path = AgroDT_Hard/src/libs/SimpleDHT
+	url = https://github.com/winlinvip/SimpleDHT.git
