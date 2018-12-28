@@ -5,3 +5,8 @@
 [Sonoff-Tasmota] https://github.com/arendst/Sonoff-Tasmota
 
 
+[ESP8266 10Km link] https://www.youtube.com/watch?v=yCLb2eItDyE
+[Repository from video above] https://github.com/Jeija/esp32free80211
+
+[Increase wifi antenna on ESP8266] https://forum.pimatic.org/topic/2618/greater-wi-fi-area-for-esp8266-01-with-external-antenna
+
