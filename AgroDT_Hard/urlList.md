@@ -11,3 +11,5 @@
 [Increase wifi antenna on ESP8266] https://forum.pimatic.org/topic/2618/greater-wi-fi-area-for-esp8266-01-with-external-antenna
 
 [] https://www.youtube.com/watch?v=KYLN9qH0C84
+
+[ESP8266 Resver Engineering] https://www.youtube.com/watch?v=z2y2c5sB1OM
